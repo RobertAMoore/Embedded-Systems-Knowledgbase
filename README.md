@@ -1,6 +1,6 @@
 The Embedded Systems Knowledgebase is a concise, organized record of notes regarding all topics related to embedded systems engineering. The goal is to have a quick reference manual available for engineers as a reminder of some of the basics as well as the nuances of the various tools and techniques at our disposal. If anyone would like to begin contributing please contact me at RobertAMoore@ramembeddedtech.com.
 
-The knowledgebase is hosted at ramembeddedtech.com which is a WordPress website. An account may be neccessary to contribute to the knowledgebase.
+The knowledgebase is hosted at www.ramembeddedtech.com which is a WordPress website. An account may be neccessary to contribute to the knowledgebase.
 
 This GitHub repository serves as an issue tracker for the knowledgebase. Issues can be related to bugs, broken links, misinformation, typos, etc.
 
